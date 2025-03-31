@@ -1,0 +1,49 @@
+{
+  "name": "english-exam-questions-backend",
+  "version": "1.0.0",
+  "description": "Backend API para generar preguntas de examen en inglés usando OpenAI",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "dev": "nodemon server.js",
+    "lint:fix": "eslint . --fix",
+    "format:fix": "prettier --write ."
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "express-validator": "^7.2.1",
+    "google-auth-library": "^9.15.1",
+    "json5": "^2.2.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0",
+    "openai": "^4.63.0",
+    "redis": "^4.7.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "eslint": "^8.0.0",
+    "husky": "^8.0.0",
+    "prettier": "^3.0.0",
+    "supertest": "^7.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run lint && npm run format"
+    }
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}

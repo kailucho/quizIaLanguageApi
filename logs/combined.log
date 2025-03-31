@@ -1,0 +1,314 @@
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:39:55.608Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:42:24.628Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:42:40.974Z"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:43:15.607Z","url":"/api-docs/"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:43:15.840Z","url":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:43:15.895Z","url":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:43:15.902Z","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:43:15.906Z","url":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:45:30.236Z"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:35.809Z","url":"/api-docs/"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:35.904Z","url":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:35.907Z","url":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:35.915Z","url":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:35.920Z","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:45:36.315Z","url":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.506Z","url":"/api-docs/"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.592Z","url":"/api-docs/swagger-ui.css"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.595Z","url":"/api-docs/swagger-ui-bundle.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.612Z","url":"/api-docs/swagger-ui-standalone-preset.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.615Z","url":"/api-docs/swagger-ui-init.js"}
+{"level":"info","message":"Request received","method":"GET","timestamp":"2025-03-18T22:48:38.793Z","url":"/api-docs/favicon-32x32.png"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:51:05.440Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:51:42.143Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:52:53.962Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:54:07.639Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:54:56.960Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:55:08.316Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:55:15.349Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T22:56:34.533Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:00:18.783Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:00:31.490Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:00:50.423Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:01:38.917Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:01:43.698Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:05:07.544Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:36:59.836Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:37:11.414Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:37:17.558Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:39:52.545Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:40:26.642Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:41:33.922Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:41:40.105Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:42:21.106Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:42:27.630Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:45:11.336Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:45:25.734Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:45:44.498Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:46:00.699Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:46:11.394Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:52:58.972Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:53:53.709Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:54:00.488Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:54:15.325Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-18T23:54:23.699Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:37:43.989Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:37:52.881Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T05:38:07.240Z","url":"/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T05:38:44.162Z","url":"/questions"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T05:39:10.701Z","url":"/register"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:39:46.732Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:39:50.409Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:40:57.502Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:41:06.434Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:42:11.961Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:42:16.660Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:42:57.091Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:44:07.723Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:44:11.473Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:45:21.349Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:46:31.034Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:47:23.545Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:47:31.089Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:48:11.021Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:48:46.646Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:48:50.583Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:49:28.232Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:49:54.926Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:49:58.735Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:50:42.743Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:51:30.430Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:51:55.340Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:51:59.325Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:52:05.052Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:52:28.008Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:52:44.998Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:53:12.991Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:53:52.453Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:54:39.031Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:54:43.811Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T05:55:44.374Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:00:33.143Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:01:33.140Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:02:35.025Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:02:44.039Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:06:04.865Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:06:12.731Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:06:28.623Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:06:36.289Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:06:55.931Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:07:32.022Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:07:45.309Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:07:54.592Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:08:00.564Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:08:09.368Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:09:27.504Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:09:32.773Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:09:54.354Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:10:00.551Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:10:06.145Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:10:43.801Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:10:53.702Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:11:37.590Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:11:42.027Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:11:58.358Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:12:34.303Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:12:45.509Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:12:51.627Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:13:38.639Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:13:50.979Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:14:21.801Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:15:00.290Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:15:14.660Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:16:00.688Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:16:28.135Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:18:03.983Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:18:39.745Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:21:08.494Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:26:17.002Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:26:26.693Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:28:08.351Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:28:51.767Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:29:06.276Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:29:20.300Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:29:32.490Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:30:35.017Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:30:45.558Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:30:50.104Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:31:23.520Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:31:52.948Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:40:30.625Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:40:44.468Z","url":"/api/questions/questions"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:41:37.045Z","url":"/auth/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:41:58.714Z","url":"/auth/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:42:58.026Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:43:42.418Z","url":"/auth/api/v1/auth/login"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:44:35.525Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:44:47.577Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:45:59.290Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:46:15.242Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:46:44.413Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:46:53.191Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:47:00.700Z","url":"/api/v1/auth/login"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:47:24.756Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:47:37.983Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:49:17.960Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:49:23.809Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:49:26.658Z","url":"/api/v1/questions"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:49:54.386Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:50:05.107Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:50:07.485Z","url":"/api/v1/questions"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-19T06:50:32.790Z","url":"/api/v1/questions"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:52:04.521Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:52:59.279Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:56:41.634Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:57:20.649Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:57:27.304Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T06:59:36.912Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T07:02:07.066Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T07:02:50.203Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T07:03:21.837Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-19T07:03:31.826Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-24T22:28:52.334Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-24T22:36:05.688Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-24T22:36:38.434Z","url":"/questions"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-24T22:44:13.284Z","url":"/api/v1/login"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-24T22:45:20.432Z","url":"/api/v1/login"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-24T22:55:53.222Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T21:05:06.708Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:06:12.807Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-25T22:10:19.428Z","url":"/api/auth/google"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:12:17.322Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:12:31.764Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:13:20.445Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:14:40.503Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:14:51.476Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:17:18.126Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:17:24.096Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:17:56.881Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:18:45.694Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:20:22.722Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:21:21.747Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:21:28.179Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:22:00.736Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:23:02.531Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:23:37.958Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:24:28.032Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:25:30.002Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:26:02.963Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:26:59.757Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:27:31.809Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:28:28.371Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:28:40.278Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:29:23.738Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:31:37.275Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:33:13.273Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:34:16.393Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:34:21.104Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:34:28.436Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:35:10.737Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:35:29.400Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:35:36.254Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:38:49.627Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:38:57.016Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:39:20.118Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:39:30.970Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:40:59.305Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:41:14.264Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:41:57.342Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:42:09.671Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:42:14.005Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:43:05.272Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:43:13.249Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:44:37.917Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:46:01.771Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:46:11.722Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:47:37.392Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:48:59.148Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:49:16.483Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:49:55.834Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:50:21.906Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-25T22:50:34.761Z"}
+{"level":"info","message":"Request received","method":"POST","timestamp":"2025-03-25T22:56:15.513Z","url":"/api/auth/google"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-30T05:55:23.753Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T03:16:16.466Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:15:15.116Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:18:54.566Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:19:29.742Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:19:50.343Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:20:49.553Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:21:15.902Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:22:24.594Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:40:12.181Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:46:58.588Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:47:10.250Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:48:40.122Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:49:06.947Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:50:11.917Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:50:29.177Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:51:53.836Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:52:00.744Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:53:13.925Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:53:43.543Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:53:55.458Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:55:22.250Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:56:02.655Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T05:57:13.620Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:11:45.097Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:12:09.145Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:18:06.812Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:18:45.516Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:19:59.799Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:20:43.639Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:21:25.958Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:22:00.235Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:22:25.118Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:25:26.204Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:25:35.619Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:26:38.862Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T06:32:33.396Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T07:16:38.320Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T07:18:20.883Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T07:19:21.500Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T07:20:31.519Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T13:42:18.533Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T13:52:43.015Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T13:57:23.326Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T13:57:31.196Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:06:05.274Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:06:10.997Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:10:27.674Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:11:11.893Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:11:27.716Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:11:35.160Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:18:23.125Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:18:32.530Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:27:36.998Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:31:39.948Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:32:25.052Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:33:11.761Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:33:50.401Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:34:42.184Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:35:47.275Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:36:29.157Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:36:42.838Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:43:50.626Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:44:00.775Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:57:06.303Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T14:57:11.341Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T15:05:09.781Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T15:05:55.416Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T17:58:59.849Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T18:00:09.191Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T18:00:12.976Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T18:03:34.527Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T18:05:14.186Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T18:05:32.985Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T21:51:18.425Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T21:59:31.035Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T22:00:10.031Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T22:00:56.852Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T22:01:26.547Z"}
+{"level":"info","message":"Servidor corriendo en el puerto 5000","timestamp":"2025-03-31T22:01:40.601Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-31T22:02:05.578Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-31T22:02:10.126Z"}
