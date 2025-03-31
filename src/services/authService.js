@@ -2,7 +2,7 @@ import { connectDB } from '../config/index.js';
 import User from '../models/UserModel.js';
 import jwt from 'jsonwebtoken';
 import { OAuth2Client } from 'google-auth-library';
-export { generateToken } from '../utils/index.js';
+import { generateToken } from '../utils/index.js';
 
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT_ID);
 
