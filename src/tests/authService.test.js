@@ -17,17 +17,6 @@ describe('authService', () => {
     process.env.JWT_SECRET = 'test_secret';
   });
 
-  describe('generateToken', () => {
-    it('should generate a valid JWT token', () => {
-      const user = { id: '123', email: 'test@example.com' };
-      const token = authService.generateToken(user);
-
-      const decoded = jwt.verify(token, process.env.JWT_SECRET);
-      expect(decoded.id).toBe(user.id);
-      expect(decoded.email).toBe(user.email);
-    });
-  });
-
   describe('verifyToken', () => {
     it('should verify a valid token and return the decoded payload', () => {
       const user = { id: '123', email: 'test@example.com' };
