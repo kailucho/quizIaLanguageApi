@@ -8,8 +8,8 @@ const questionSchema = new Schema({
     required: true,
     validate: {
       validator: (arr) => arr.length > 2,
-      message: 'There must be more than 2 options.'
-    }
+      message: 'There must be more than 2 options.',
+    },
   },
   correctAnswer: {
     type: String,
@@ -18,9 +18,9 @@ const questionSchema = new Schema({
       validator: function (value) {
         return this.options.includes(value);
       },
-      message: 'The correct answer must be among the options.'
-    }
-  }
+      message: 'The correct answer must be among the options.',
+    },
+  },
 });
 
 questionSchema.index({ questionText: 1 });

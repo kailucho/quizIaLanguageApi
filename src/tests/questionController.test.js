@@ -1,8 +1,3 @@
-// Removed axios and replaced with direct mocks for HTTP behavior
-const mockUnit = {
-  content: 'Present Simple, Vocabulary: daily routines, Grammar: present simple tense',
-};
-
 describe('Question Controller', () => {
   it('should return 400 when invalid input is provided', async () => {
     const mockPost = jest.fn().mockRejectedValueOnce({

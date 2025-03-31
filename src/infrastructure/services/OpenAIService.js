@@ -1,6 +1,5 @@
-import OpenAI from "openai";
-import JSON5 from "json5";
-import Question from "../../models/QuestionModel.js";
+import OpenAI from 'openai';
+import JSON5 from 'json5';
 
 export class OpenAIService {
   constructor() {
@@ -10,16 +9,17 @@ export class OpenAIService {
     });
   }
 
-  async generateQuestions(selectedUnit, language = "English") {
+  async generateQuestions(selectedUnit, language = 'English') {
     const systemMessage = {
-      role: "system",
-      content:
-        `You are an assistant that generates practical exam questions in ${language} to help users practice grammar and vocabulary.`,
+      role: 'system',
+      content: `You are an assistant that generates practical exam questions in ${language} to help users practice grammar and vocabulary.`,
     };
 
     const userMessage = {
-      role: "user",
-      content: language === "jp" ? `
+      role: 'user',
+      content:
+        language === 'jp'
+          ? `
 Based on the following **topics, vocabulary, and grammatical structures**, generate 10 multiple-choice questions for an exam. The questions should help students practice reading, vocabulary, and grammar in Japanese.
 
 **Topics, Vocabulary, and Grammatical Structures:**
@@ -43,7 +43,8 @@ ${selectedUnit}
     ...
   ]
 - Do not include explanations, additional text, or code block markers like \`\`\`.
-      ` : `
+      `
+          : `
 Based on the following **topics, vocabulary, and grammatical structures**, generate 10 multiple-choice fill-in-the-blank questions in ${language} for an exam. The questions should help practice language skills related to these topics.
 
 **Topics, Vocabulary, and Grammatical Structures:**
@@ -75,7 +76,7 @@ Based on the following **topics, vocabulary, and grammatical structures**, gener
 
     try {
       const response = await this.client.chat.completions.create({
-        model: "gpt-3.5-turbo",
+        model: 'gpt-3.5-turbo',
         messages: [systemMessage, userMessage],
         max_tokens: 1500,
         temperature: 0.7,
@@ -93,8 +94,8 @@ Based on the following **topics, vocabulary, and grammatical structures**, gener
 
       return questionsData.filter(isValidQuestion);
     } catch (error) {
-      console.error("Error generating questions:", error);
-      throw new Error("Failed to generate questions.");
+      console.error('Error generating questions:', error);
+      throw new Error('Failed to generate questions.');
     }
   }
 }

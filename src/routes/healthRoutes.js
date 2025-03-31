@@ -33,7 +33,8 @@ const router = express.Router();
  */
 router.get('/health', async (req, res) => {
   try {
-    const dbStatus = mongoose.connection.readyState === 1 ? 'connected' : 'disconnected';
+    const dbStatus =
+      mongoose.connection.readyState === 1 ? 'connected' : 'disconnected';
     const redisStatus = redisClient.isOpen ? 'connected' : 'disconnected';
 
     winston.info('Health check status', {

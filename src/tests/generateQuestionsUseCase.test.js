@@ -30,7 +30,9 @@ describe('GenerateQuestionsUseCase', () => {
       },
     ];
 
-    mockOpenAIService.generateQuestions.mockResolvedValue(mockGeneratedQuestions);
+    mockOpenAIService.generateQuestions.mockResolvedValue(
+      mockGeneratedQuestions
+    );
     mockQuestionRepository.save.mockResolvedValue(mockGeneratedQuestions[0]);
 
     const questions = await generateQuestionsUseCase.execute(input);
@@ -39,7 +41,9 @@ describe('GenerateQuestionsUseCase', () => {
       input.content,
       input.language
     );
-    expect(mockQuestionRepository.save).toHaveBeenCalledWith(expect.any(Object));
+    expect(mockQuestionRepository.save).toHaveBeenCalledWith(
+      expect.any(Object)
+    );
     expect(questions).toHaveLength(1);
     expect(questions[0].questionText).toBe('What is the capital of France?');
   });

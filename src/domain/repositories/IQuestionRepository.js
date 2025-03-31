@@ -1,13 +1,13 @@
 export class IQuestionRepository {
-  async save(question) {
+  async save() {
     throw new Error('Method not implemented');
   }
 
-  async findById(id) {
+  async findById() {
     throw new Error('Method not implemented');
   }
 
-  async findByTopic(topic) {
+  async findByTopic() {
     throw new Error('Method not implemented');
   }
 
@@ -15,7 +15,7 @@ export class IQuestionRepository {
     throw new Error('Method not implemented');
   }
 
-  async delete(id) {
+  async delete() {
     throw new Error('Method not implemented');
   }
 }

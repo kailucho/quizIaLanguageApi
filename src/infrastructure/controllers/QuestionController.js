@@ -2,13 +2,20 @@ import { GenerateQuestionsUseCase } from '../../application/useCases/GenerateQue
 
 export class QuestionController {
   constructor(questionRepository, openAIService) {
-    this.generateQuestionsUseCase = new GenerateQuestionsUseCase(questionRepository, openAIService);
+    this.generateQuestionsUseCase = new GenerateQuestionsUseCase(
+      questionRepository,
+      openAIService
+    );
   }
 
   async getQuestions(req, res) {
     try {
       const { selectedContent: content, language, difficulty } = req.body;
-      const questions = await this.generateQuestionsUseCase.execute({ content, language, difficulty });
+      const questions = await this.generateQuestionsUseCase.execute({
+        content,
+        language,
+        difficulty,
+      });
 
       // Ensure all questions are instances of the Question class
       const serializedQuestions = questions.map((q) => {

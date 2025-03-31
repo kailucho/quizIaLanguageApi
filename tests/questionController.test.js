@@ -1,6 +1,4 @@
 import request from 'supertest';
-import { GenerateQuestionsUseCase } from '../src/application/useCases/GenerateQuestionsUseCase';
-import OpenAI from 'openai';
 import express from 'express';
 
 // Configuration of environment variables for tests
@@ -51,7 +49,7 @@ jest.mock('openai', () => {
 
 // Mock for jsonwebtoken
 jest.mock('jsonwebtoken', () => ({
-  verify: jest.fn((token, secret) => {
+  verify: jest.fn((token) => {
     // If the token is 'invalid-token', simulate a verification error
     if (token === 'invalid-token') {
       throw new Error('Invalid token.');
@@ -68,11 +66,12 @@ beforeEach(() => {
 
 // Test data
 const mockUnit = {
-  content: 'Present Simple, Vocabulary: daily routines, Grammar: present simple tense'
+  content:
+    'Present Simple, Vocabulary: daily routines, Grammar: present simple tense',
 };
 
 const mockInvalidUnit = {
-  content: ''
+  content: '',
 };
 
 const getQuestions = jest.fn(async (unit) => {

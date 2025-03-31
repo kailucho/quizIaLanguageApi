@@ -33,7 +33,6 @@ export { redisClient };
 import swaggerJsDoc from 'swagger-jsdoc';
 import swaggerUi from 'swagger-ui-express';
 
-
 const swaggerOptions = {
   swaggerDefinition: {
     openapi: '3.0.0',
@@ -52,9 +51,7 @@ const swaggerOptions = {
   apis: ['../routes/*.js'],
 };
 
-
 const swaggerDocs = swaggerJsDoc(swaggerOptions);
-
 
 export { swaggerDocs, swaggerUi };
 
@@ -73,12 +70,14 @@ const logger = winston.createLogger({
 });
 
 if (process.env.NODE_ENV !== 'production') {
-  logger.add(new winston.transports.Console({
-    format: winston.format.combine(
-      winston.format.colorize(),
-      winston.format.simple()
-    ),
-  }));
+  logger.add(
+    new winston.transports.Console({
+      format: winston.format.combine(
+        winston.format.colorize(),
+        winston.format.simple()
+      ),
+    })
+  );
 }
 
 export { logger };

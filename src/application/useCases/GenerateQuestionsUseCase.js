@@ -1,5 +1,4 @@
 import { Question } from '../../domain/entities/Question.js';
-import { IQuestionRepository } from '../../domain/repositories/IQuestionRepository.js';
 import { redisClient } from '../../config/index.js';
 
 export class GenerateQuestionsUseCase {
@@ -28,28 +27,35 @@ export class GenerateQuestionsUseCase {
 
     if (cachedQuestions) {
       // Rehydrate cached questions into Question instances
-      return JSON.parse(cachedQuestions).map(q => new Question(q));
+      return JSON.parse(cachedQuestions).map((q) => new Question(q));
     }
 
     try {
-      const generatedQuestions = await this.openAIService.generateQuestions(content, language);
-      const validQuestions = generatedQuestions.filter(q => q.options.includes(q.correctAnswer));
+      const generatedQuestions = await this.openAIService.generateQuestions(
+        content,
+        language
+      );
+      const validQuestions = generatedQuestions.filter((q) =>
+        q.options.includes(q.correctAnswer)
+      );
 
-      const questions = validQuestions.map(q => {
+      const questions = validQuestions.map((q) => {
         const question = new Question({
           questionText: q.questionText,
           options: q.options,
           correctAnswer: q.correctAnswer,
           difficulty,
           topic: content,
-          createdAt: new Date()
+          createdAt: new Date(),
         });
 
         question.validate();
         return question;
       });
 
-      const savedQuestions = await Promise.all(questions.map(q => this.questionRepository.save(q)));
+      const savedQuestions = await Promise.all(
+        questions.map((q) => this.questionRepository.save(q))
+      );
 
       // Cache the questions for 1 hour if Redis is enabled
       if (redisClient) {

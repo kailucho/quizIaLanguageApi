@@ -39,7 +39,9 @@ describe('authService', () => {
     });
 
     it('should throw an error for an invalid token', () => {
-      expect(() => authService.verifyToken('invalid-token')).toThrow('Invalid token');
+      expect(() => authService.verifyToken('invalid-token')).toThrow(
+        'Invalid token'
+      );
     });
   });
 });

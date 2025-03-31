@@ -22,7 +22,10 @@ const swaggerDocs = swaggerJsDoc(swaggerOptions);
 const routes = (app) => {
   const questionRepository = new MongoQuestionRepository();
   const openAIService = new OpenAIService();
-  const questionController = new QuestionController(questionRepository, openAIService);
+  const questionController = new QuestionController(
+    questionRepository,
+    openAIService
+  );
 
   app.use('/api/v1/auth', authRoutes);
   app.use('/api/v1/health', healthRoutes);

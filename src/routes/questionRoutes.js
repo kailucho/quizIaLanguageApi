@@ -48,7 +48,11 @@ import authMiddleware from '../middleware/authMiddleware.js';
 const questionRoutes = (questionController) => {
   const router = express.Router();
 
-  router.post('/', authMiddleware, questionController.getQuestions.bind(questionController));
+  router.post(
+    '/',
+    authMiddleware,
+    questionController.getQuestions.bind(questionController)
+  );
 
   return router;
 };

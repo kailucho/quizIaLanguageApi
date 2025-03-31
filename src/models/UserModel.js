@@ -11,13 +11,15 @@ const userSchema = new Schema({
     trim: true,
     minlength: 3,
     maxlength: 50, // Increased to accommodate email addresses
-    match: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/ // Updated regex to allow email format
+    match: /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/, // Updated regex to allow email format
   },
-  password: { type: String, required: true }
+  password: { type: String, required: true },
 });
 
 userSchema.pre('save', async function (next) {
-  if (!this.isModified('password')) return next();
+  if (!this.isModified('password')) {
+    return next();
+  }
   const salt = await bcrypt.genSalt(10);
   this.password = await bcrypt.hash(this.password, salt);
   next();

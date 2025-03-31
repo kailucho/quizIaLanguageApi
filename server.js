@@ -18,8 +18,8 @@ const logger = winston.createLogger({
   transports: [
     new winston.transports.Console(),
     new winston.transports.File({ filename: 'logs/error.log', level: 'error' }),
-    new winston.transports.File({ filename: 'logs/combined.log' })
-  ]
+    new winston.transports.File({ filename: 'logs/combined.log' }),
+  ],
 });
 
 app.use((req, res, next) => {
@@ -27,7 +27,7 @@ app.use((req, res, next) => {
     message: 'Request received',
     method: req.method,
     url: req.url,
-    timestamp: new Date().toISOString()
+    timestamp: new Date().toISOString(),
   });
   next();
 });
@@ -54,12 +54,16 @@ app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 export default app;
 
-connectDB().then(() => {
-  app.listen(port, () => {
-    logger.info(`Server running on port ${port}`);
-    console.log(`Swagger docs available at http://localhost:${port}/api-docs`);
+connectDB()
+  .then(() => {
+    app.listen(port, () => {
+      logger.info(`Server running on port ${port}`);
+      console.log(
+        `Swagger docs available at http://localhost:${port}/api-docs`
+      );
+    });
+  })
+  .catch((error) => {
+    logger.error('Error connecting to the database:', error);
+    process.exit(1);
   });
-}).catch((error) => {
-  logger.error('Error connecting to the database:', error);
-  process.exit(1);
-});

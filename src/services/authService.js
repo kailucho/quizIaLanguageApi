@@ -15,12 +15,18 @@ export const registerUser = async (username, password) => {
 
 export const loginUser = async (username, password) => {
   const user = await User.findOne({ username });
-  if (!user) throw new Error('Invalid username or password');
+  if (!user) {
+    throw new Error('Invalid username or password');
+  }
 
   const isMatch = await user.comparePassword(password);
-  if (!isMatch) throw new Error('Invalid username or password');
+  if (!isMatch) {
+    throw new Error('Invalid username or password');
+  }
 
-  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
+    expiresIn: '1h',
+  });
   return { token };
 };
 
