@@ -2,7 +2,7 @@ import { connectDB } from '../config/index.js';
 import User from '../models/UserModel.js';
 import jwt from 'jsonwebtoken';
 import { OAuth2Client } from 'google-auth-library';
-import { generateToken } from '../utils/index.js';
+export { generateToken } from '../utils/index.js';
 
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT_ID);
 
@@ -47,4 +47,12 @@ export const verifyGoogleToken = async (idToken) => {
 
   const token = generateToken(user._id); // Replaced inline JWT generation with utility function
   return { token, email, name: given_name }; // Return token along with email and name
+};
+
+export const verifyToken = (token) => {
+  try {
+    return jwt.verify(token, process.env.JWT_SECRET);
+  } catch (error) {
+    throw new Error('Invalid token');
+  }
 };
