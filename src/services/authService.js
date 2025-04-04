@@ -25,7 +25,7 @@ export const loginUser = async (username, password) => {
   }
 
   const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
-    expiresIn: '1h',
+    expiresIn: '24h', // Increased token expiration time to 24 hours
   });
   return { token };
 };
